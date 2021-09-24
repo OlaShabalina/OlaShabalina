@@ -2,7 +2,7 @@
 
 My name is Olga and I'm currently in the proccess of transitioning from a real estate agent to a software developer.
 
-I got a lot of knowledge from Inco bootcap (www.inco.org.au) and Udemy (www.udemy.com). I've completed projects using: HTML, CSS, JavaScript (including Nodejs and Express) with PostgreSQL database.  
+I got a lot of knowledge from Inco bootcap (www.inco.org.au) and Udemy (www.udemy.com). I've completed multiple projects using: HTML, CSS, JavaScript (including Nodejs and Express) with PostgreSQL database.  
 
 - 🔭 I’m currently working on movie rating app with user authentification
 - 🌱 I’m currently learning Reactjs & MongoDB
