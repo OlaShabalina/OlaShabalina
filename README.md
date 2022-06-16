@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Olga and I just left my real estate sales job to become a software developer.
+My name is Olga. I recently left my real estate sales job to become an IT professional.
 
-I got a lot of knowledge from Inco bootcamp (www.inco.org.au) and Udemy (www.udemy.com). I'm also going through my first software development internship with https://mav3rik.com/ .
+I got a lot of knowledge from [Inco Academy](www.inco.org.au) bootcamp, [Udemy](www.udemy.com) and software development internship at [Mav3rik](https://mav3rik.com). Earlier this year I joined [Rea Group](https://www.rea-group.com/) as an Associate Data Engineer.
 
-I've completed multiple projects using: HTML, CSS, JavaScript (including Nodejs and Express), jQuery, React, Sass, PostgreSQL/MongoDB databases, Bootstrap and Materialize CSS frameworks.  
+Here is the tech stack I used: **HTML**, **CSS/Sass**, **JavaScript (including Nodejs, Express, Reactjs/Nextjs)**, **PostgreSQL/MongoDB**, **Python**.
 
 - 🔭 I’m currently learning Python and AWS.
 - 👯 I’m looking to collaborate on whatever you guys are looking to create. Any knowledge is useful. 
